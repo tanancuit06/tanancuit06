@@ -3,7 +3,7 @@
 I am civil engineer that loves computers.
 
 - 🔭 I’m currently working on: De Ars Aedifico, a free open source structural engineering toolset.
-- 🌱 I’m currently learning: Computer Science in general. Algorithms/Data Structures. C++, Python, SQL.
+- 🌱 I’m currently learning: Computer Science in general; Algorithms/Data Structures; C++, Python, SQL.
 - 👯 I’m looking to collaborate on: any project regarding civil engineering.
 
 <!--
